@@ -1,13 +1,14 @@
-<h1>INSTRUCTIONS</h1>
-<h2> Function which returns a random number in the given range </h2>
-<h4>Create a function which returns a random number in the given range of values both inclusive</h4>
+<h3>INSTRUCTIONS</h3>
+* Function which returns a random number in the given range 
+*Create a function which returns a random number in the given range of values both inclusive
 
-<h1>CHALLENGES (0/2 DONE)</h1>
+<h4>CHALLENGES (0/2 DONE)</h4>
 <ul>
     <li>randomNumberGeneratorInRange(10, 50) should return a number between 10-50 (inclusive)</li>
     <li>randomNumberGeneratorInRange(100, 200) should return a number between 100-200 (inclusive)</li>
 </ul>
 
+```js
 function randomNumberGeneratorInRange(rangeStart, rangeEnd) {
 	// write your solution here
 
@@ -15,3 +16,4 @@ function randomNumberGeneratorInRange(rangeStart, rangeEnd) {
 }
 
 console.log(`My random number: ${randomNumberGeneratorInRange(5, 100)}`)
+```
