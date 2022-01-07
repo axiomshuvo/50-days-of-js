@@ -6,7 +6,7 @@
     <li>String can also be reversed by converting it to array, then joining it after reversing</li>
 </ul>
 
-<h4>CHALLENGES (0/2 DONE)</h4>
+## CHALLENGES (0/2 DONE)
 <ul>
     <li>reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"</li>
     <li>reverseAString("Peter Parker is Spiderman") should return "namredipS si rekraP reteP"</li>
