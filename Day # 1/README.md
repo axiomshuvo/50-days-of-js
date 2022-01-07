@@ -1,6 +1,8 @@
 <h3>INSTRUCTIONS</h3>
-* Function which returns a random number in the given range 
-*Create a function which returns a random number in the given range of values both inclusive
+<ul>
+    <li>Function which returns a random number in the given range </li>
+    <li>Create a function which returns a random number in the given range of values both inclusive</li>
+</ul>
 
 <h4>CHALLENGES (0/2 DONE)</h4>
 <ul>
