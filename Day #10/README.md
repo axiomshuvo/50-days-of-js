@@ -5,10 +5,11 @@
     <li>How to remove array element based on object property?</li>
 </ul>
 
-## CHALLENGES (0/2 DONE)
+## CHALLENGES (0/3 DONE)
 <ul>
     <li>removeArrayElement("money") returns the array without the money object</li>
     <li>removeArrayElement("id") returns the array without the id object</li>
+    <li>removeArrayElement("cStatus") returns the array without the cStatus object</li>
 </ul>
 
 ```js
